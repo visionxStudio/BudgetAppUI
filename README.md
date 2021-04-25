@@ -7,4 +7,4 @@ Budget App Flutter UI Practice
 This project is a starting point for a Flutter application.
 
 
-<img src="https://github.com/visionxStudio/BudgetAppUI/blob/main/screenshots/snap1.jpg" width="300">
+<img src="https://github.com/visionxStudio/BudgetAppUI/blob/main/screenshots/snap1.jpg" width="300" height="600">
